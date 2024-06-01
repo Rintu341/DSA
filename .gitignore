@@ -1,4 +1,4 @@
 *.exe
 *.jar
-.idea/
-out/
+Queue/.idea/
+Queue/out/
