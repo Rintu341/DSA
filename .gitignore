@@ -2,3 +2,4 @@
 *.jar
 Queue/.idea/
 Queue/out/
+*.classQueue/out
