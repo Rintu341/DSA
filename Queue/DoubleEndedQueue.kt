@@ -1,4 +1,4 @@
- 
+
 class DoubleEndedQueue {
 
     private var rear: Int = -1

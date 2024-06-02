@@ -1,5 +1,7 @@
 const val SIZE = 100
-
+/*
+Using a constructor: IntArray(size) creates an array of the specified size with all elements initialized to 0.
+ */
 class Queue {
     private val arr = IntArray(SIZE){ -1 }
     private var front = -1
