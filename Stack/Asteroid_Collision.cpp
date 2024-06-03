@@ -48,7 +48,7 @@ public:
                 negativeAsteroidsStack.pop();
             }
             
-        // reverse(temp.begin(),temp.end());
+    
         reverse(ans.begin(),ans.end());
         for(int i = 0; i< ans.size();i++)
         {

@@ -58,6 +58,8 @@ public:
         }
         */
     
+
+    // just normal string operation
     string removeStars(string s) {
         string ans;
         char temp;
